@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org-zavoloka-management">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/cluster/modules/org-zavoloka-management.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

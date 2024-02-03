@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="modules">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/testuserdir/update/backup/netbeans/modules/org-netbeans-modules-nbjavac-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/testuserdir/update/backup/netbeans/modules/org-netbeans-modules-nbjavac-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/testuserdir/update/backup/netbeans/modules/org-netbeans-modules-nbjavac.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

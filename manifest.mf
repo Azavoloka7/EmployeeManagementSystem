@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+Bundle-Localization: org/zavoloka/management/Bundle
+Bundle-Name: %OpenIDE-Module-Name
+Bundle-SymbolicName: org.zavoloka.management
+Bundle-Version: 1.0
+
